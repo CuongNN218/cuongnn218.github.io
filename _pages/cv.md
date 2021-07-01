@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Aug, 2020 - July, 2021 : Machine LearningEngineer
+* Aug, 2020 - July, 2021 : Machine Learning Engineer
   * FPT Smart Cloud
   * Project: FPT.AI Reader
   * Duties included: Built a deep learning model to solve the Vietnamese OCR problem. 
