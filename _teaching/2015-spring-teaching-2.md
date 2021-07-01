@@ -2,9 +2,9 @@
 title: "Introduction to Programming"
 collection: teaching
 type: "IT1110"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-IT1110
 venue: "Hanoi University of Science and Technology, SoICT"
-date: Spring 2020
+date: 2020-09-04
 location: "Hanoi, Vietnam"
 ---
 
