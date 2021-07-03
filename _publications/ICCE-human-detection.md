@@ -7,7 +7,7 @@ date: 2020-01-13
 venue: 'IEEE Eighth International Conference on Communications and Electronics'
 
 ---
-In this paper, we introduce a novel network architechture which is suitable for the human detection task on edge device. The network is heavily based on [YOLO](https://arxiv.org/abs/1612.08242){:target="_blank"}
+In this paper, we introduce a novel network architechture which is suitable for the human detection task on edge device. The network is heavily based on [YOLO](https://arxiv.org/abs/1612.08242){:target="_blank"} to archive the best trade-off between performace and speed.
 
 [Download paper here](http://cuongnn218.github.io/files/ICCE-human-detection.pdf)
 
