@@ -6,10 +6,10 @@ excerpt: 'In this paper, we introduce a novel network architechture which is sui
 date: 2009-10-01
 venue: '2020 IEEE Eighth International Conference on Communications and Electronics'
 paperurl: 'http://cuongnn218.github.io/files/ICCE-human-detection.pdf'
-citation: 'Ngoc Cuong, Nguyen. (202020). &quot;YOLO Based Real-Time Human Detection forSmart Video Surveillance at the Edge.&quot; <i>IEEE Eighth International Conference on Communications and Electronics</i>. 1(1).'
+citation: 'Ngoc Cuong, Nguyen. (2020). &quot;YOLO Based Real-Time Human Detection forSmart Video Surveillance at the Edge.&quot; <i>IEEE Eighth International Conference on Communications and Electronics</i>.'
 ---
 In this paper, we introduce a novel network architechture which is suitable for the human detection task on edge device. The network is heavily based on [YOLO](https://arxiv.org/abs/1612.08242){:target="_blank"}
 
 [Download paper here](http://cuongnn218.github.io/files/ICCE-human-detection.pdf)
 
-Recommended citation: Ngoc Cuong, Nguyen. (2020). "YOLO Based Real-Time Human Detection forSmart Video Surveillance at the Edge." <i>IEEE Eighth International Conference on Communications and Electronics</i>. 1(1).
+Citation: Ngoc Cuong, Nguyen. (2020). "YOLO Based Real-Time Human Detection forSmart Video Surveillance at the Edge." <i>IEEE Eighth International Conference on Communications and Electronics</i>.
