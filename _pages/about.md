@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cuong Ngoc Nguyen's Personal Page"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,12 @@ redirect_from:
 
 About me
 ======
-Hi, readers, welcome to my personal's webpage. It's not only an academic page, but also is where I share my writting passion to the public. This webpage will include contents about my life at Miami, studing tips and machine learning, of course. 
+Hi, readers, welcome to my webpage. It's not only an academic page but also where I share my writting passion to the public. This webpage will include contents about my life at Miami, studing tips and machine learning, of course. 
 
-I will be joining the [Knight Foundation School of Computing and Information Sciences, Florida International University](https://www.cis.fiu.edu/){:target="_blank"} as a PhD Student working closely with [Dr.Cuong V. Nguyen](https://nvcuong.github.io/){:target="_blank"}. Before that, I spent a wonderful year working as a machine learning engineer at [FPT Smart Cloud](https://fptcloud.com/){:target="_blank"} in the Vietnamese OCR project. Let's check our products at [FPT AI Reader Platform](https://fpt.ai/reader-en){:target="_blank"}.
+I will be joining the [Knight Foundation School of Computing and Information Sciences, Florida International University](https://www.cis.fiu.edu/){:target="_blank"} as a PhD Student working closely with [Dr. Cuong V. Nguyen](https://nvcuong.github.io/){:target="_blank"}. Before that, I spent a wonderful year working as a machine learning engineer at [FPT Smart Cloud](https://fptcloud.com/){:target="_blank"} in the Vietnamese OCR project. Let's check our products at [FPT AI Reader Platform](https://fpt.ai/reader-en){:target="_blank"}.
+
+My research interests are in **machine learning** and **computer vision**.
+
 
 Lastest News
 ======
