@@ -22,4 +22,4 @@ Lastest News
 - (July, 2021): I left my job at FPT Smart Cloud
 - (April, 2021): I was a winner of [Honda Award 2020](https://www.hondafoundation.jp/en/yes_program.html){:target="_blank"}
 - (August, 2020): I joined FPT Smart Cloud as an engineer
-- (April, 2020): I graduated from [Hanoi University of Science and Technology](https://www.hust.edu.vn/){:target="_blank"} with CPA 3.65/4 (top 0.5% among the 2020 cohort).
+- (April, 2020): I graduated from [HUST](https://www.hust.edu.vn/){:target="_blank"} with CPA 3.65/4 (top 0.5% among the 2020 cohort).
