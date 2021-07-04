@@ -28,4 +28,4 @@ Lastest News
 
 Contact
 ======
-If I make any mistake, feel free to correct via cuong.nguyenngoc218@gmail[dot]com.
+If I make any mistakes, feel free to correct via cuong.nguyenngoc218@gmail[dot]com.
