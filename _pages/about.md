@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi, readers.
+**Hi, readers.**
 
 Welcome to my webpage. It's not only an academic page but also where I share my writting passion to the public. This webpage will include contents about my life at Miami, studing tips and machine learning, of course.
 
@@ -21,9 +21,9 @@ My research interests are in **machine learning** and **computer vision**.
 
 Lastest News
 ======
-- (July, 2021): I left my job at FPT Smart Cloud
-- (April, 2021): I was a winner of [Honda Award 2020](https://www.hondafoundation.jp/en/yes_program.html){:target="_blank"}
-- (August, 2020): I joined FPT Smart Cloud as an engineer
+- (July, 2021): I left my job at FPT Smart Cloud.
+- (April, 2021): I was a winner of [Honda Award 2020](https://www.hondafoundation.jp/en/yes_program.html){:target="_blank"}.
+- (August, 2020): I joined FPT Smart Cloud as an engineer.
 - (April, 2020): I graduated from [HUST](https://www.hust.edu.vn/){:target="_blank"} with excellent degree (CPA 3.65/4).
 
 Contact
