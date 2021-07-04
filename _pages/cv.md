@@ -32,9 +32,12 @@ Skills
 * Deep Learning Frameworks:
   * Pytorch
   * Tensorflow
+  * Onnx
 * Programming Languages:
   * C/C++
   * Python
+* Version Control:
+  * Git
 
 Publications
 ======
