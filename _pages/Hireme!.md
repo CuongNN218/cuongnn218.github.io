@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hire me!"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrics and Telecommunications Engineering, Hanoi University of Science and Technology, 2020
 * Ph.D in Computer Science, Florida International University University, 2026 (expected)
+* B.S. in Electrics and Telecommunications Engineering, Hanoi University of Science and Technology, 2020
 
 Work experience
 ======
