@@ -26,4 +26,4 @@ Lastest News
 
 Contact
 ======
-If I make any mistake, feel free to correct via [my email](cuong.nguyenngoc218@gmail.com){:target="_blank"}.
+If I make any mistake, feel free to correct via cuong.nguyenngoc218@gmail[dot]com.
