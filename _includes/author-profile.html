@@ -117,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.kaggle %}
+        <li><a href="{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i> Kaggle</a></li>
 {% endif %}
     </ul>
   </div>
