@@ -10,9 +10,7 @@ redirect_from:
 
 About me
 ======
-**Hi, readers.**
-
-Welcome to my webpage.
+**Welcome to my page.**
 
 I will be joining the [Knight Foundation School of Computing and Information Sciences, Florida International University](https://www.cis.fiu.edu/){:target="_blank"} as a PhD Student working closely with [Dr. Cuong V. Nguyen](https://nvcuong.github.io/){:target="_blank"}. Before that, I spent a wonderful year working as a machine learning engineer at [FPT Smart Cloud](https://fptcloud.com/){:target="_blank"}.
 
