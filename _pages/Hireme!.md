@@ -11,8 +11,8 @@ You can download my CV [here](https://drive.google.com/file/d/18owjm-LHIdSYYCFgl
 
 Education
 ======
-* Ph.D in Computer Science, Florida International University University, 2026 (expected)
-* B.S. in Electrics and Telecommunications Engineering, Hanoi University of Science and Technology, 2020
+* Ph.D in Computer Science, Florida International University University, (2021-present)
+* B.S. in Electrics and Telecommunications Engineering, Hanoi University of Science and Technology, 2020.
 
 Work experience
 ======
