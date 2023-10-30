@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download my CV [here](https://drive.google.com/file/d/18owjm-LHIdSYYCFglNPLlmMWZd2lT2D9/view?usp=sharing).
 
 Education
 ======
@@ -26,7 +26,7 @@ Work experience
   * Project: Human Detection on Edge Devices 
   * Supervisor: Dr. Huy-Hoang Nguyen
   
-Skills
+Skills:
 ======
 * Docker
 * Deep Learning Frameworks:
@@ -38,8 +38,9 @@ Skills
   * Python
 * Version Control:
   * Git
+* English: IELTS 7.5
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -59,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
